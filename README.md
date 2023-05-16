@@ -1,4 +1,4 @@
-# MAD_LAB_2023
+# mad_lab_files
 JAVA  LAB exercise questions 
  
-  BY-: AMAN GOSWAMI (211B038)
+  BY-: SOUMAY MISHRA (211b316)
